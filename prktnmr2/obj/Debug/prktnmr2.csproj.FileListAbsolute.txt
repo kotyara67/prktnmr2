@@ -1,0 +1,7 @@
+C:\Users\kotyara\source\repos\prktk\массивы\prktnmr2\prktnmr2\bin\Debug\prktnmr2.exe.config
+C:\Users\kotyara\source\repos\prktk\массивы\prktnmr2\prktnmr2\bin\Debug\prktnmr2.exe
+C:\Users\kotyara\source\repos\prktk\массивы\prktnmr2\prktnmr2\bin\Debug\prktnmr2.pdb
+C:\Users\kotyara\source\repos\prktk\массивы\prktnmr2\prktnmr2\obj\Debug\prktnmr2.csproj.AssemblyReference.cache
+C:\Users\kotyara\source\repos\prktk\массивы\prktnmr2\prktnmr2\obj\Debug\prktnmr2.csproj.CoreCompileInputs.cache
+C:\Users\kotyara\source\repos\prktk\массивы\prktnmr2\prktnmr2\obj\Debug\prktnmr2.exe
+C:\Users\kotyara\source\repos\prktk\массивы\prktnmr2\prktnmr2\obj\Debug\prktnmr2.pdb
